@@ -1,0 +1,733 @@
+Data Set 1:
+
+  Test Case 1: Nick can take 9 perfect paths.
+  Test Case 2: Nick can take 3 perfect paths.
+  Test Case 3: Nick can take 5 perfect paths.
+  Test Case 4: Nick can take 0 perfect paths.
+  Test Case 5: Nick can take 1 perfect path.
+
+Data Set 2:
+
+  Test Case 1: Nick can take 56 perfect paths.
+
+Data Set 3:
+
+  Test Case 1: Nick can take 48620 perfect paths.
+  Test Case 2: Nick can take 1 perfect path.
+  Test Case 3: Nick can take 1 perfect path.
+  Test Case 4: Nick can take 1 perfect path.
+  Test Case 5: Nick can take 1 perfect path.
+
+Data Set 4:
+
+  Test Case 1: Nick can take 2 perfect paths.
+  Test Case 2: Nick can take 10 perfect paths.
+  Test Case 3: Nick can take 10 perfect paths.
+  Test Case 4: Nick can take 3534 perfect paths.
+  Test Case 5: Nick can take 0 perfect paths.
+  Test Case 6: Nick can take 1 perfect path.
+  Test Case 7: Nick can take 3 perfect paths.
+  Test Case 8: Nick can take 3 perfect paths.
+
+Data Set 5:
+
+  Test Case 1: Nick can take 113 perfect paths.
+  Test Case 2: Nick can take 0 perfect paths.
+  Test Case 3: Nick can take 1 perfect path.
+  Test Case 4: Nick can take 70 perfect paths.
+  Test Case 5: Nick can take 70 perfect paths.
+  Test Case 6: Nick can take 0 perfect paths.
+  Test Case 7: Nick can take 1 perfect path.
+  Test Case 8: Nick can take 6 perfect paths.
+  Test Case 9: Nick can take 0 perfect paths.
+
+Data Set 6:
+
+  Test Case 1: Nick can take 0 perfect paths.
+  Test Case 2: Nick can take 0 perfect paths.
+  Test Case 3: Nick can take 0 perfect paths.
+  Test Case 4: Nick can take 0 perfect paths.
+  Test Case 5: Nick can take 0 perfect paths.
+  Test Case 6: Nick can take 0 perfect paths.
+  Test Case 7: Nick can take 0 perfect paths.
+  Test Case 8: Nick can take 0 perfect paths.
+  Test Case 9: Nick can take 0 perfect paths.
+
+Data Set 7:
+
+  Test Case 1: Nick can take 0 perfect paths.
+  Test Case 2: Nick can take 0 perfect paths.
+  Test Case 3: Nick can take 79 perfect paths.
+  Test Case 4: Nick can take 155 perfect paths.
+  Test Case 5: Nick can take 1 perfect path.
+  Test Case 6: Nick can take 16 perfect paths.
+  Test Case 7: Nick can take 21 perfect paths.
+  Test Case 8: Nick can take 15 perfect paths.
+  Test Case 9: Nick can take 1792 perfect paths.
+
+Data Set 8:
+
+  Test Case 1: Nick can take 1 perfect path.
+  Test Case 2: Nick can take 3 perfect paths.
+  Test Case 3: Nick can take 30868 perfect paths.
+  Test Case 4: Nick can take 147 perfect paths.
+  Test Case 5: Nick can take 210 perfect paths.
+
+Data Set 9:
+
+  Test Case 1: Nick can take 1 perfect path.
+
+Data Set 10:
+
+  Test Case 1: Nick can take 0 perfect paths.
+  Test Case 2: Nick can take 12870 perfect paths.
+
+Data Set 11:
+
+  Test Case 1: Nick can take 0 perfect paths.
+  Test Case 2: Nick can take 12870 perfect paths.
+  Test Case 3: Nick can take 11440 perfect paths.
+
+Data Set 12:
+
+  Test Case 1: Nick can take 1 perfect path.
+
+Data Set 13:
+
+  Test Case 1: Nick can take 0 perfect paths.
+  Test Case 2: Nick can take 0 perfect paths.
+
+Data Set 14:
+
+  Test Case 1: Nick can take 1 perfect path.
+  Test Case 2: Nick can take 1 perfect path.
+  Test Case 3: Nick can take 1 perfect path.
+  Test Case 4: Nick can take 1 perfect path.
+
+Data Set 15:
+
+  Test Case 1: Nick can take 5490 perfect paths.
+  Test Case 2: Nick can take 8 perfect paths.
+  Test Case 3: Nick can take 4 perfect paths.
+  Test Case 4: Nick can take 1 perfect path.
+  Test Case 5: Nick can take 456 perfect paths.
+
+Data Set 16:
+
+  Test Case 1: Nick can take 5 perfect paths.
+  Test Case 2: Nick can take 4 perfect paths.
+  Test Case 3: Nick can take 1 perfect path.
+  Test Case 4: Nick can take 9 perfect paths.
+  Test Case 5: Nick can take 2 perfect paths.
+
+Data Set 17:
+
+  Test Case 1: Nick can take 25 perfect paths.
+  Test Case 2: Nick can take 36 perfect paths.
+  Test Case 3: Nick can take 10 perfect paths.
+  Test Case 4: Nick can take 2 perfect paths.
+  Test Case 5: Nick can take 28 perfect paths.
+  Test Case 6: Nick can take 56 perfect paths.
+
+Data Set 18:
+
+  Test Case 1: Nick can take 49 perfect paths.
+  Test Case 2: Nick can take 5 perfect paths.
+  Test Case 3: Nick can take 5 perfect paths.
+  Test Case 4: Nick can take 1 perfect path.
+  Test Case 5: Nick can take 0 perfect paths.
+
+Data Set 19:
+
+  Test Case 1: Nick can take 1 perfect path.
+  Test Case 2: Nick can take 16 perfect paths.
+  Test Case 3: Nick can take 757 perfect paths.
+  Test Case 4: Nick can take 3 perfect paths.
+
+Data Set 20:
+
+  Test Case 1: Nick can take 15 perfect paths.
+  Test Case 2: Nick can take 5 perfect paths.
+  Test Case 3: Nick can take 2 perfect paths.
+  Test Case 4: Nick can take 1 perfect path.
+  Test Case 5: Nick can take 28 perfect paths.
+  Test Case 6: Nick can take 1 perfect path.
+  Test Case 7: Nick can take 205 perfect paths.
+  Test Case 8: Nick can take 120 perfect paths.
+  Test Case 9: Nick can take 15 perfect paths.
+
+Data Set 21:
+
+  Test Case 1: Nick can take 3 perfect paths.
+  Test Case 2: Nick can take 1 perfect path.
+  Test Case 3: Nick can take 18 perfect paths.
+
+Data Set 22:
+
+  Test Case 1: Nick can take 1278 perfect paths.
+  Test Case 2: Nick can take 4 perfect paths.
+  Test Case 3: Nick can take 251 perfect paths.
+
+Data Set 23:
+
+  Test Case 1: Nick can take 583 perfect paths.
+  Test Case 2: Nick can take 1 perfect path.
+  Test Case 3: Nick can take 1 perfect path.
+  Test Case 4: Nick can take 21 perfect paths.
+
+Data Set 24:
+
+  Test Case 1: Nick can take 10 perfect paths.
+
+Data Set 25:
+
+  Test Case 1: Nick can take 120 perfect paths.
+
+Data Set 26:
+
+  Test Case 1: Nick can take 3 perfect paths.
+  Test Case 2: Nick can take 210 perfect paths.
+  Test Case 3: Nick can take 1 perfect path.
+  Test Case 4: Nick can take 2 perfect paths.
+  Test Case 5: Nick can take 36 perfect paths.
+  Test Case 6: Nick can take 1 perfect path.
+  Test Case 7: Nick can take 20 perfect paths.
+  Test Case 8: Nick can take 120 perfect paths.
+  Test Case 9: Nick can take 20 perfect paths.
+
+Data Set 27:
+
+  Test Case 1: Nick can take 1 perfect path.
+  Test Case 2: Nick can take 10 perfect paths.
+  Test Case 3: Nick can take 45 perfect paths.
+  Test Case 4: Nick can take 6 perfect paths.
+
+Data Set 28:
+
+  Test Case 1: Nick can take 5 perfect paths.
+  Test Case 2: Nick can take 1 perfect path.
+  Test Case 3: Nick can take 105 perfect paths.
+  Test Case 4: Nick can take 5 perfect paths.
+  Test Case 5: Nick can take 1 perfect path.
+  Test Case 6: Nick can take 1 perfect path.
+
+Data Set 29:
+
+  Test Case 1: Nick can take 792 perfect paths.
+  Test Case 2: Nick can take 4 perfect paths.
+
+Data Set 30:
+
+  Test Case 1: Nick can take 5 perfect paths.
+  Test Case 2: Nick can take 3 perfect paths.
+  Test Case 3: Nick can take 3 perfect paths.
+  Test Case 4: Nick can take 4 perfect paths.
+  Test Case 5: Nick can take 28 perfect paths.
+
+Data Set 31:
+
+  Test Case 1: Nick can take 5 perfect paths.
+  Test Case 2: Nick can take 6 perfect paths.
+  Test Case 3: Nick can take 120 perfect paths.
+  Test Case 4: Nick can take 1 perfect path.
+  Test Case 5: Nick can take 1287 perfect paths.
+  Test Case 6: Nick can take 1 perfect path.
+
+Data Set 32:
+
+  Test Case 1: Nick can take 4 perfect paths.
+  Test Case 2: Nick can take 1225 perfect paths.
+  Test Case 3: Nick can take 5 perfect paths.
+  Test Case 4: Nick can take 10 perfect paths.
+  Test Case 5: Nick can take 28 perfect paths.
+
+Data Set 33:
+
+  Test Case 1: Nick can take 1 perfect path.
+  Test Case 2: Nick can take 35 perfect paths.
+  Test Case 3: Nick can take 45 perfect paths.
+  Test Case 4: Nick can take 28 perfect paths.
+  Test Case 5: Nick can take 4 perfect paths.
+
+Data Set 34:
+
+  Test Case 1: Nick can take 15 perfect paths.
+
+Data Set 35:
+
+  Test Case 1: Nick can take 6 perfect paths.
+  Test Case 2: Nick can take 1 perfect path.
+
+Data Set 36:
+
+  Test Case 1: Nick can take 85 perfect paths.
+  Test Case 2: Nick can take 1 perfect path.
+  Test Case 3: Nick can take 1 perfect path.
+
+Data Set 37:
+
+  Test Case 1: Nick can take 0 perfect paths.
+  Test Case 2: Nick can take 61 perfect paths.
+  Test Case 3: Nick can take 132 perfect paths.
+  Test Case 4: Nick can take 49 perfect paths.
+  Test Case 5: Nick can take 2 perfect paths.
+
+Data Set 38:
+
+  Test Case 1: Nick can take 21 perfect paths.
+  Test Case 2: Nick can take 4 perfect paths.
+  Test Case 3: Nick can take 36 perfect paths.
+  Test Case 4: Nick can take 4019 perfect paths.
+  Test Case 5: Nick can take 19 perfect paths.
+  Test Case 6: Nick can take 1 perfect path.
+  Test Case 7: Nick can take 145 perfect paths.
+  Test Case 8: Nick can take 35 perfect paths.
+
+Data Set 39:
+
+  Test Case 1: Nick can take 896 perfect paths.
+
+Data Set 40:
+
+  Test Case 1: Nick can take 1 perfect path.
+  Test Case 2: Nick can take 1 perfect path.
+  Test Case 3: Nick can take 9 perfect paths.
+  Test Case 4: Nick can take 6 perfect paths.
+
+Data Set 41:
+
+  Test Case 1: Nick can take 56 perfect paths.
+  Test Case 2: Nick can take 252 perfect paths.
+  Test Case 3: Nick can take 3 perfect paths.
+  Test Case 4: Nick can take 7 perfect paths.
+  Test Case 5: Nick can take 1 perfect path.
+  Test Case 6: Nick can take 70 perfect paths.
+  Test Case 7: Nick can take 165 perfect paths.
+  Test Case 8: Nick can take 2 perfect paths.
+
+Data Set 42:
+
+  Test Case 1: Nick can take 10 perfect paths.
+  Test Case 2: Nick can take 10 perfect paths.
+  Test Case 3: Nick can take 5 perfect paths.
+  Test Case 4: Nick can take 1 perfect path.
+
+Data Set 43:
+
+  Test Case 1: Nick can take 1 perfect path.
+  Test Case 2: Nick can take 2 perfect paths.
+  Test Case 3: Nick can take 35 perfect paths.
+
+Data Set 44:
+
+  Test Case 1: Nick can take 1 perfect path.
+  Test Case 2: Nick can take 16 perfect paths.
+
+Data Set 45:
+
+  Test Case 1: Nick can take 0 perfect paths.
+
+Data Set 46:
+
+  Test Case 1: Nick can take 18 perfect paths.
+  Test Case 2: Nick can take 10 perfect paths.
+  Test Case 3: Nick can take 4 perfect paths.
+  Test Case 4: Nick can take 21 perfect paths.
+
+Data Set 47:
+
+  Test Case 1: Nick can take 12337 perfect paths.
+  Test Case 2: Nick can take 51 perfect paths.
+
+Data Set 48:
+
+  Test Case 1: Nick can take 9 perfect paths.
+  Test Case 2: Nick can take 540 perfect paths.
+  Test Case 3: Nick can take 9 perfect paths.
+  Test Case 4: Nick can take 1 perfect path.
+  Test Case 5: Nick can take 1506 perfect paths.
+
+Data Set 49:
+
+  Test Case 1: Nick can take 1 perfect path.
+  Test Case 2: Nick can take 1 perfect path.
+  Test Case 3: Nick can take 6 perfect paths.
+
+Data Set 50:
+
+  Test Case 1: Nick can take 1 perfect path.
+  Test Case 2: Nick can take 6 perfect paths.
+  Test Case 3: Nick can take 130 perfect paths.
+  Test Case 4: Nick can take 4 perfect paths.
+  Test Case 5: Nick can take 10 perfect paths.
+  Test Case 6: Nick can take 1 perfect path.
+  Test Case 7: Nick can take 34 perfect paths.
+
+Data Set 51:
+
+  Test Case 1: Nick can take 605 perfect paths.
+  Test Case 2: Nick can take 1 perfect path.
+  Test Case 3: Nick can take 15 perfect paths.
+  Test Case 4: Nick can take 1 perfect path.
+  Test Case 5: Nick can take 1 perfect path.
+  Test Case 6: Nick can take 3 perfect paths.
+
+Data Set 52:
+
+  Test Case 1: Nick can take 36 perfect paths.
+  Test Case 2: Nick can take 2 perfect paths.
+  Test Case 3: Nick can take 120 perfect paths.
+  Test Case 4: Nick can take 6 perfect paths.
+  Test Case 5: Nick can take 11 perfect paths.
+  Test Case 6: Nick can take 1 perfect path.
+  Test Case 7: Nick can take 7 perfect paths.
+  Test Case 8: Nick can take 35 perfect paths.
+
+Data Set 53:
+
+  Test Case 1: Nick can take 330 perfect paths.
+
+Data Set 54:
+
+  Test Case 1: Nick can take 7 perfect paths.
+  Test Case 2: Nick can take 4 perfect paths.
+
+Data Set 55:
+
+  Test Case 1: Nick can take 1 perfect path.
+  Test Case 2: Nick can take 0 perfect paths.
+  Test Case 3: Nick can take 32 perfect paths.
+  Test Case 4: Nick can take 11140 perfect paths.
+
+Data Set 56:
+
+  Test Case 1: Nick can take 20 perfect paths.
+
+Data Set 57:
+
+  Test Case 1: Nick can take 30 perfect paths.
+  Test Case 2: Nick can take 10 perfect paths.
+  Test Case 3: Nick can take 15 perfect paths.
+  Test Case 4: Nick can take 5 perfect paths.
+  Test Case 5: Nick can take 28 perfect paths.
+  Test Case 6: Nick can take 4249 perfect paths.
+  Test Case 7: Nick can take 56 perfect paths.
+  Test Case 8: Nick can take 1 perfect path.
+
+Data Set 58:
+
+  Test Case 1: Nick can take 1 perfect path.
+  Test Case 2: Nick can take 90 perfect paths.
+  Test Case 3: Nick can take 3 perfect paths.
+  Test Case 4: Nick can take 14 perfect paths.
+
+Data Set 59:
+
+  Test Case 1: Nick can take 4 perfect paths.
+  Test Case 2: Nick can take 3 perfect paths.
+  Test Case 3: Nick can take 34 perfect paths.
+  Test Case 4: Nick can take 1540 perfect paths.
+  Test Case 5: Nick can take 1 perfect path.
+  Test Case 6: Nick can take 189 perfect paths.
+  Test Case 7: Nick can take 1 perfect path.
+  Test Case 8: Nick can take 1 perfect path.
+
+Data Set 60:
+
+  Test Case 1: Nick can take 21 perfect paths.
+  Test Case 2: Nick can take 1 perfect path.
+
+Data Set 61:
+
+  Test Case 1: Nick can take 28 perfect paths.
+  Test Case 2: Nick can take 2 perfect paths.
+  Test Case 3: Nick can take 1 perfect path.
+  Test Case 4: Nick can take 3 perfect paths.
+  Test Case 5: Nick can take 3 perfect paths.
+  Test Case 6: Nick can take 3 perfect paths.
+  Test Case 7: Nick can take 6 perfect paths.
+  Test Case 8: Nick can take 126 perfect paths.
+  Test Case 9: Nick can take 18 perfect paths.
+
+Data Set 62:
+
+  Test Case 1: Nick can take 20 perfect paths.
+  Test Case 2: Nick can take 70 perfect paths.
+  Test Case 3: Nick can take 6 perfect paths.
+  Test Case 4: Nick can take 28 perfect paths.
+  Test Case 5: Nick can take 126 perfect paths.
+  Test Case 6: Nick can take 1 perfect path.
+  Test Case 7: Nick can take 126 perfect paths.
+
+Data Set 63:
+
+  Test Case 1: Nick can take 6 perfect paths.
+  Test Case 2: Nick can take 210 perfect paths.
+  Test Case 3: Nick can take 2 perfect paths.
+  Test Case 4: Nick can take 3 perfect paths.
+  Test Case 5: Nick can take 792 perfect paths.
+  Test Case 6: Nick can take 15 perfect paths.
+
+Data Set 64:
+
+  Test Case 1: Nick can take 1 perfect path.
+  Test Case 2: Nick can take 1 perfect path.
+  Test Case 3: Nick can take 6 perfect paths.
+  Test Case 4: Nick can take 20 perfect paths.
+  Test Case 5: Nick can take 15 perfect paths.
+  Test Case 6: Nick can take 1 perfect path.
+  Test Case 7: Nick can take 84 perfect paths.
+  Test Case 8: Nick can take 1242 perfect paths.
+  Test Case 9: Nick can take 56 perfect paths.
+
+Data Set 65:
+
+  Test Case 1: Nick can take 462 perfect paths.
+  Test Case 2: Nick can take 21 perfect paths.
+  Test Case 3: Nick can take 1 perfect path.
+  Test Case 4: Nick can take 2 perfect paths.
+  Test Case 5: Nick can take 45 perfect paths.
+  Test Case 6: Nick can take 6435 perfect paths.
+  Test Case 7: Nick can take 3 perfect paths.
+  Test Case 8: Nick can take 1 perfect path.
+
+Data Set 66:
+
+  Test Case 1: Nick can take 1 perfect path.
+
+Data Set 67:
+
+  Test Case 1: Nick can take 35 perfect paths.
+  Test Case 2: Nick can take 210 perfect paths.
+  Test Case 3: Nick can take 1 perfect path.
+  Test Case 4: Nick can take 330 perfect paths.
+  Test Case 5: Nick can take 1 perfect path.
+  Test Case 6: Nick can take 330 perfect paths.
+  Test Case 7: Nick can take 31 perfect paths.
+  Test Case 8: Nick can take 3 perfect paths.
+
+Data Set 68:
+
+  Test Case 1: Nick can take 3 perfect paths.
+
+Data Set 69:
+
+  Test Case 1: Nick can take 11 perfect paths.
+  Test Case 2: Nick can take 3 perfect paths.
+  Test Case 3: Nick can take 6 perfect paths.
+  Test Case 4: Nick can take 1 perfect path.
+  Test Case 5: Nick can take 1 perfect path.
+  Test Case 6: Nick can take 8 perfect paths.
+  Test Case 7: Nick can take 5 perfect paths.
+  Test Case 8: Nick can take 4 perfect paths.
+
+Data Set 70:
+
+  Test Case 1: Nick can take 15 perfect paths.
+  Test Case 2: Nick can take 792 perfect paths.
+  Test Case 3: Nick can take 3 perfect paths.
+  Test Case 4: Nick can take 2 perfect paths.
+  Test Case 5: Nick can take 21 perfect paths.
+  Test Case 6: Nick can take 74 perfect paths.
+  Test Case 7: Nick can take 1542 perfect paths.
+  Test Case 8: Nick can take 0 perfect paths.
+
+Data Set 71:
+
+  Test Case 1: Nick can take 4 perfect paths.
+  Test Case 2: Nick can take 6 perfect paths.
+  Test Case 3: Nick can take 3 perfect paths.
+
+Data Set 72:
+
+  Test Case 1: Nick can take 1 perfect path.
+  Test Case 2: Nick can take 10 perfect paths.
+  Test Case 3: Nick can take 15 perfect paths.
+  Test Case 4: Nick can take 9 perfect paths.
+  Test Case 5: Nick can take 81 perfect paths.
+  Test Case 6: Nick can take 5 perfect paths.
+  Test Case 7: Nick can take 126 perfect paths.
+  Test Case 8: Nick can take 126 perfect paths.
+  Test Case 9: Nick can take 1 perfect path.
+
+Data Set 73:
+
+  Test Case 1: Nick can take 1186 perfect paths.
+  Test Case 2: Nick can take 126 perfect paths.
+  Test Case 3: Nick can take 3 perfect paths.
+  Test Case 4: Nick can take 5 perfect paths.
+  Test Case 5: Nick can take 194 perfect paths.
+  Test Case 6: Nick can take 2 perfect paths.
+  Test Case 7: Nick can take 2 perfect paths.
+
+Data Set 74:
+
+  Test Case 1: Nick can take 5 perfect paths.
+  Test Case 2: Nick can take 21 perfect paths.
+  Test Case 3: Nick can take 1 perfect path.
+  Test Case 4: Nick can take 84 perfect paths.
+  Test Case 5: Nick can take 1 perfect path.
+  Test Case 6: Nick can take 10 perfect paths.
+  Test Case 7: Nick can take 6 perfect paths.
+  Test Case 8: Nick can take 1 perfect path.
+  Test Case 9: Nick can take 35 perfect paths.
+
+Data Set 75:
+
+  Test Case 1: Nick can take 15 perfect paths.
+  Test Case 2: Nick can take 3432 perfect paths.
+
+Data Set 76:
+
+  Test Case 1: Nick can take 2 perfect paths.
+
+Data Set 77:
+
+  Test Case 1: Nick can take 35 perfect paths.
+  Test Case 2: Nick can take 210 perfect paths.
+  Test Case 3: Nick can take 84 perfect paths.
+  Test Case 4: Nick can take 2 perfect paths.
+  Test Case 5: Nick can take 1 perfect path.
+  Test Case 6: Nick can take 35 perfect paths.
+
+Data Set 78:
+
+  Test Case 1: Nick can take 10 perfect paths.
+  Test Case 2: Nick can take 1 perfect path.
+  Test Case 3: Nick can take 10 perfect paths.
+
+Data Set 79:
+
+  Test Case 1: Nick can take 0 perfect paths.
+  Test Case 2: Nick can take 1 perfect path.
+  Test Case 3: Nick can take 302 perfect paths.
+  Test Case 4: Nick can take 1638 perfect paths.
+
+Data Set 80:
+
+  Test Case 1: Nick can take 1 perfect path.
+  Test Case 2: Nick can take 35 perfect paths.
+  Test Case 3: Nick can take 1 perfect path.
+  Test Case 4: Nick can take 1 perfect path.
+  Test Case 5: Nick can take 76 perfect paths.
+  Test Case 6: Nick can take 70 perfect paths.
+
+Data Set 81:
+
+  Test Case 1: Nick can take 7 perfect paths.
+  Test Case 2: Nick can take 5 perfect paths.
+  Test Case 3: Nick can take 1 perfect path.
+  Test Case 4: Nick can take 6 perfect paths.
+  Test Case 5: Nick can take 315 perfect paths.
+  Test Case 6: Nick can take 3 perfect paths.
+
+Data Set 82:
+
+  Test Case 1: Nick can take 55 perfect paths.
+  Test Case 2: Nick can take 15 perfect paths.
+  Test Case 3: Nick can take 6 perfect paths.
+  Test Case 4: Nick can take 3 perfect paths.
+  Test Case 5: Nick can take 6 perfect paths.
+  Test Case 6: Nick can take 28 perfect paths.
+  Test Case 7: Nick can take 165 perfect paths.
+  Test Case 8: Nick can take 4 perfect paths.
+  Test Case 9: Nick can take 7 perfect paths.
+
+Data Set 83:
+
+  Test Case 1: Nick can take 4 perfect paths.
+
+Data Set 84:
+
+  Test Case 1: Nick can take 3 perfect paths.
+  Test Case 2: Nick can take 4 perfect paths.
+  Test Case 3: Nick can take 106 perfect paths.
+  Test Case 4: Nick can take 5 perfect paths.
+  Test Case 5: Nick can take 15 perfect paths.
+  Test Case 6: Nick can take 4 perfect paths.
+  Test Case 7: Nick can take 3 perfect paths.
+  Test Case 8: Nick can take 2436 perfect paths.
+  Test Case 9: Nick can take 295 perfect paths.
+
+Data Set 85:
+
+  Test Case 1: Nick can take 3 perfect paths.
+  Test Case 2: Nick can take 6 perfect paths.
+  Test Case 3: Nick can take 357 perfect paths.
+  Test Case 4: Nick can take 6 perfect paths.
+
+Data Set 86:
+
+  Test Case 1: Nick can take 121 perfect paths.
+  Test Case 2: Nick can take 1035 perfect paths.
+  Test Case 3: Nick can take 4 perfect paths.
+  Test Case 4: Nick can take 16 perfect paths.
+
+Data Set 87:
+
+  Test Case 1: Nick can take 4 perfect paths.
+  Test Case 2: Nick can take 29 perfect paths.
+  Test Case 3: Nick can take 3 perfect paths.
+
+Data Set 88:
+
+  Test Case 1: Nick can take 1 perfect path.
+  Test Case 2: Nick can take 66 perfect paths.
+  Test Case 3: Nick can take 662 perfect paths.
+  Test Case 4: Nick can take 3 perfect paths.
+  Test Case 5: Nick can take 11 perfect paths.
+
+Data Set 89:
+
+  Test Case 1: Nick can take 3 perfect paths.
+
+Data Set 90:
+
+  Test Case 1: Nick can take 19 perfect paths.
+  Test Case 2: Nick can take 3 perfect paths.
+  Test Case 3: Nick can take 632 perfect paths.
+  Test Case 4: Nick can take 5 perfect paths.
+  Test Case 5: Nick can take 1 perfect path.
+  Test Case 6: Nick can take 2 perfect paths.
+  Test Case 7: Nick can take 1 perfect path.
+
+Data Set 91:
+
+  Test Case 1: Nick can take 1 perfect path.
+
+Data Set 92:
+
+  Test Case 1: Nick can take 31 perfect paths.
+  Test Case 2: Nick can take 26 perfect paths.
+  Test Case 3: Nick can take 1 perfect path.
+
+Data Set 93:
+
+  Test Case 1: Nick can take 105 perfect paths.
+  Test Case 2: Nick can take 121 perfect paths.
+  Test Case 3: Nick can take 6 perfect paths.
+  Test Case 4: Nick can take 26 perfect paths.
+  Test Case 5: Nick can take 924 perfect paths.
+  Test Case 6: Nick can take 6 perfect paths.
+  Test Case 7: Nick can take 10 perfect paths.
+  Test Case 8: Nick can take 1 perfect path.
+
+Data Set 94:
+
+  Test Case 1: Nick can take 28 perfect paths.
+  Test Case 2: Nick can take 4 perfect paths.
+  Test Case 3: Nick can take 21 perfect paths.
+  Test Case 4: Nick can take 6 perfect paths.
+  Test Case 5: Nick can take 4 perfect paths.
+  Test Case 6: Nick can take 6 perfect paths.
+  Test Case 7: Nick can take 3 perfect paths.
+
+Data Set 95:
+
+  Test Case 1: Nick can take 98 perfect paths.
+  Test Case 2: Nick can take 0 perfect paths.
+  Test Case 3: Nick can take 1 perfect path.
+  Test Case 4: Nick can take 4 perfect paths.
+  Test Case 5: Nick can take 1 perfect path.
+  Test Case 6: Nick can take 0 perfect paths.
+

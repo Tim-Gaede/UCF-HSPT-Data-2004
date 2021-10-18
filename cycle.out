@@ -1,0 +1,1009 @@
+Case 1: A B H I
+Case 2: A G H
+Case 3: A B C D G H I
+Case 4: A B C D F G H
+Case 5: A
+Case 6: A
+Case 7: Z
+Case 8: B A
+Case 9: A B E
+Case 10: D Z T K C P I H B L N J M A X F Y E V
+Case 11: N Q D U J I F A G B P V S R Y Z X H W L E M C
+Case 12: Y K M
+Case 13: A X
+Case 14: K W C O G M V P H Z A D X Q S U E N B
+Case 15: Z I P Y D B
+Case 16: R C J U S D E B Z
+Case 17: I P J C
+Case 18: V H Y B U
+Case 19: O G P D C V
+Case 20: W B C R Z L O U P G D Q E F Y V I
+Case 21: V M Q H R
+Case 22: Q V B
+Case 23: H U I
+Case 24: F N M P I T W Z S X K U H A C J O R B
+Case 25: M Q P D I W J K A S N E V B F H U L C Z G O
+Case 26: K O S B U N D V Y T H I F Q E A C P W X R G
+Case 27: E Y L W H I C F A R K
+Case 28: N V G J A F
+Case 29: P J
+Case 30: L R Z H M X G O K V D I P W Y J N
+Case 31: M P D B J R Z N S W A I
+Case 32: C I
+Case 33: J A
+Case 34: O X Q U W I L H D P
+Case 35: F P M C S Y G H U
+Case 36: V X L F R I J W T Z D B A Y O
+Case 37: H N
+Case 38: Y T P U
+Case 39: O V X E L K F J R Z W
+Case 40: Z R N V L S K D Y I U O G W X T M A P E C H Q
+Case 41: O X Q Y Z
+Case 42: H U Z G E T Y J R W Q C A L I D K O S V X
+Case 43: H N O D Z L F
+Case 44: U Q T S B D P W Z N A C E
+Case 45: O I L V Z
+Case 46: P N R F K D C H U Y I S G X
+Case 47: O I G Q K J U N R D S T W
+Case 48: X J
+Case 49: E T M Y I C J F Z W P L V K O X H G
+Case 50: G P I N V C J Y Q Z E R
+Case 51: L P D Z K H
+Case 52: C R D L G N J Z V T Q P S F O X M W B H A I U E K
+Case 53: A F O W L S
+Case 54: W M Z O V I Y C S A D
+Case 55: D H L N V I W M
+Case 56: C B J O I X Z V S U W G T R E
+Case 57: I A V E Y G
+Case 58: N W O G L A T B D X S J
+Case 59: F Q Z P L
+Case 60: E M A G U P J O Q C D L K N V
+Case 61: Y L Q
+Case 62: C D H E U
+Case 63: E M
+Case 64: N R U O Z D I K X
+Case 65: J W U E C H I V K X S G B O P Q T F A D Z
+Case 66: F Q
+Case 67: B D V F Y I R X S K L E J T Q
+Case 68: F W G S A N T L U
+Case 69: I L X J F R E
+Case 70: O G C L B V U P F K J
+Case 71: N B A W Z J U I V
+Case 72: E W
+Case 73: X O Z U J T Q N V K B G A E R
+Case 74: Y D
+Case 75: D A L V
+Case 76: L I Q E B O Y J G M D R K W S F
+Case 77: I R J U D B Z W S A P K O F C T G
+Case 78: H
+Case 79: O N
+Case 80: K D Z S A M B W V R G J L Q
+Case 81: J Y
+Case 82: K Z M
+Case 83: O R V Y N D W H
+Case 84: G D M P O L U Q
+Case 85: C F N K L D J W H M T X Q A E Y G V O I U Z
+Case 86: K Q
+Case 87: Q J Z S H C Y B U T D K R W
+Case 88: Q F K X S
+Case 89: G V C K T A L J R W Z
+Case 90: X F J K T M B Z R H E A O
+Case 91: I T W G H D A V C O M S K F L Q Z Y U N X P R J
+Case 92: A C P I
+Case 93: F J I A C U Q T K
+Case 94: V A
+Case 95: I V O F C G H E K S
+Case 96: A U L
+Case 97: N Q S H O B D I Y V
+Case 98: E L Z V F O
+Case 99: C I Z B F H J A K Y O L D Q G
+Case 100: Q I R L P W J N F K B Z X Y M H T
+Case 101: R Y V L A U F Q K P
+Case 102: Z Y H E P W K O C M Q
+Case 103: W H F I N K T C M
+Case 104: Z D M W A
+Case 105: O Q N A C F K H
+Case 106: N O G D J
+Case 107: D R B K V Y X O H W S T A N E M F L Z G
+Case 108: C U J
+Case 109: D L S N Y B U C
+Case 110: X E O K B
+Case 111: G A N W B J
+Case 112: N K B V U X R
+Case 113: E M H Y
+Case 114: B A Q H X K D N G J P E W C S T R
+Case 115: H X B G C L O
+Case 116: I M A S O H B T
+Case 117: R N L Z T O E M W
+Case 118: H G M R F U K W I O E C P A L
+Case 119: I N G
+Case 120: N
+Case 121: G U W R O I X B K
+Case 122: S Q A P
+Case 123: D T
+Case 124: D T H M O P N V R S J F Z G
+Case 125: W I K U D N E S J Q O H F C
+Case 126: W Z D Q C N J P M U
+Case 127: V G N Q Y K X E T U S O R
+Case 128: S J L
+Case 129: X P G F T L Q
+Case 130: I G A V O P C K X Z Y Q R S N U W D F
+Case 131: K G W P X Z H U
+Case 132: D A N Q R I S K T L M X V G B J P C H O
+Case 133: U A J P H
+Case 134: S D L
+Case 135: Q M K N W X P
+Case 136: R M F W D L N Q
+Case 137: V L H W I F N M P A
+Case 138: Q P Y
+Case 139: E O Q R P Z F
+Case 140: I R
+Case 141: Q T O E A G M
+Case 142: N Q W P U I B E L J A C H M K X
+Case 143: J T Y A R X V B Q F
+Case 144: T R L N J M X D C E G I W
+Case 145: C H
+Case 146: T G E I J D C Z U B F O Y
+Case 147: F A
+Case 148: G Z C U D
+Case 149: G Z O M H
+Case 150: L
+Case 151: B L D G F M
+Case 152: V I O L X B F Q D H A Y S Z P R M
+Case 153: B J D C M P
+Case 154: I N G J
+Case 155: B V X J W D R T
+Case 156: N A B
+Case 157: D J R A N G W C U E X S Q
+Case 158: P A I J F
+Case 159: D A
+Case 160: Y F V Z X Q U I
+Case 161: W G C S B L R
+Case 162: T H V Y
+Case 163: F Z Q L R W
+Case 164: D L N O H E X F B Y K S Z I Q P
+Case 165: T U F H Q I G C
+Case 166: P K I Q J E S H L T V C D F Y G
+Case 167: E X K R M
+Case 168: K U F B Z X J P W Y H
+Case 169: O Y
+Case 170: R H P A W S K D N Y O C
+Case 171: I E F G L D J V N
+Case 172: F W S J L H M X
+Case 173: P Z C Q
+Case 174: M C G L K R
+Case 175: J L
+Case 176: K O A J I
+Case 177: B Q A L V
+Case 178: G J D Q
+Case 179: C P
+Case 180: G D J F
+Case 181: S M
+Case 182: Y X Q R T Z J
+Case 183: Q G B I N X H M U J Z
+Case 184: E U W J C Q
+Case 185: D
+Case 186: C G
+Case 187: K T Y B A O W J E M L C Q P V
+Case 188: T U K B Y J
+Case 189: G U
+Case 190: K J E U
+Case 191: S D P I K L R Z
+Case 192: E H J R U A
+Case 193: Y H G D P X J C R
+Case 194: O F J S A M X P E B R H V Y Z L C W N T
+Case 195: H B C S M F W X
+Case 196: O C E S N A J X G K Z M B R Q V Y I H P U D
+Case 197: G S D O I
+Case 198: S D I Y C B N H L X Z P R W E U O T M
+Case 199: C Q U A X J R I M P O K V Y S Z G D F W
+Case 200: T H Y C B Z J N
+Case 201: Y K V C U G B O L H W S N A M
+Case 202: K U G M J E N X C W D A H V F T B P Y O Z R Q
+Case 203: U P I N
+Case 204: F V O G R
+Case 205: V
+Case 206: R C V Z B T J W E S M Q X U P K
+Case 207: Q R G H B V I Z E P J Y A C L S N T O D
+Case 208: H P R
+Case 209: Y I C K G J R P E F M O U D Q V N H S B
+Case 210: A I V J
+Case 211: C Y A B
+Case 212: Q X W L T C H S F I U K P N M Y G D Z O E
+Case 213: A W P F I K O B R Z M Q L X N G E T
+Case 214: S K D I M Q
+Case 215: W I U B M H A O P V J Y F T K
+Case 216: P L
+Case 217: S N
+Case 218: K Q
+Case 219: D F S Q P K R C B V U E I X W M J A N
+Case 220: X P Y O D
+Case 221: R F V K E Z A Q S C
+Case 222: W M K
+Case 223: E H N R J
+Case 224: M I B O V J G X S W Z
+Case 225: B I M
+Case 226: D A O J M W L B C X Z I G
+Case 227: I E Q J A X H L T V U F D Y
+Case 228: T H G S E Z J L
+Case 229: K G E M
+Case 230: W D Z A H J M B K V P R Y N Q E
+Case 231: U J I D N K H
+Case 232: T M Y S E L O
+Case 233: I G W C O E M N P L B
+Case 234: H O E U L X Z P D M
+Case 235: A F P E K X S R I B U V Z N H Y W
+Case 236: Y J S R L C V B Z H D T I G
+Case 237: S J G
+Case 238: H U
+Case 239: R W D K U L T Y V F N G S X J H
+Case 240: H S Z L E
+Case 241: Z I V L K P Y
+Case 242: S V F H M E T L W Z
+Case 243: V C G D M Z Q N
+Case 244: D G P M I B S A Q H F K E V
+Case 245: D
+Case 246: J U H I Z P Q K O D Y M N X W F G A R S T B L
+Case 247: T U P E K Z M W X B S N J L Q
+Case 248: P X S K J N C O A B V
+Case 249: N M P X A I B Y O R C H T S F
+Case 250: O B V G T R I L S Z N U K
+Case 251: I B W
+Case 252: B
+Case 253: B L
+Case 254: V J Q G P S W I Z
+Case 255: W N B J S H V E T F I U
+Case 256: Q A Z T Y X O U K M
+Case 257: W S A P
+Case 258: N D I J F
+Case 259: C T
+Case 260: R N I J C
+Case 261: K Z E V C J X P M I U H W N G A Y
+Case 262: H O T R E J M N S B C W G Z A I
+Case 263: U D M S F I C J G T P B Z V H
+Case 264: T E U O X I V R Q
+Case 265: B H Z P R X O J T K L U Y M Q E W V F G
+Case 266: W K B J U G O E S D F C M
+Case 267: J S X W
+Case 268: I Y X
+Case 269: M E C P N L Z Y F H X G A B
+Case 270: R H Z J Q T U L
+Case 271: H S
+Case 272: I M A K
+Case 273: A U O
+Case 274: D A Z H I E W G T K V
+Case 275: B D G H U N K Q X R P W S O T V Z M J E Y I
+Case 276: U G O B A H N F T Y E V M L
+Case 277: P U H
+Case 278: P O V
+Case 279: C D P G L M A
+Case 280: M G U O W Q A S E X Y
+Case 281: M J O S N H
+Case 282: G L K A J R E B F O Q
+Case 283: J W P D V C G A Z I L E S H K
+Case 284: D J G V M
+Case 285: M G O K F N P V S D A B
+Case 286: M G I Y W N S
+Case 287: V I C S Q L R H N K T Y G E D X M B P W
+Case 288: I L E V Z M R O
+Case 289: U G I Q J F B R H L W Z
+Case 290: N V P F M Z U
+Case 291: B I T Y D X Q R P
+Case 292: L A I J O H C X E U V W
+Case 293: U X F T
+Case 294: J K G Q U Z T
+Case 295: Y G T F A C Q W P S
+Case 296: X M C I G N Z E H T L Q J
+Case 297: B H L N G O P K F U Q I E V W S T J R Y
+Case 298: W E U I
+Case 299: C K M G X Q H F A U
+Case 300: E W T
+Case 301: P W D I B A H C U T
+Case 302: F D N J
+Case 303: Q T S A H G L C V
+Case 304: Z
+Case 305: J L M V U Y Q S E N
+Case 306: K P F D N S
+Case 307: J C T R E O F
+Case 308: I T Y N A K Q G F H Z U S
+Case 309: O K E V T
+Case 310: I
+Case 311: I P F X R N C Z A H E K T O U
+Case 312: K B P W H
+Case 313: I H
+Case 314: M J H Q K L
+Case 315: X Z Q H R L
+Case 316: U
+Case 317: C K Q M J H G R Z
+Case 318: Y F R I P D M N Z A W E V G O Q K L T
+Case 319: J F A Z X S L H V P U
+Case 320: L R A E C I P B F H V Q G U T N M O Z S D J X Y
+Case 321: M E N Q T G F Z B
+Case 322: F M R I X Z P U L D J S A Q C T G K E Y O
+Case 323: S X Q W B V U N G Z E P C O D R H K F I A M T
+Case 324: E Q J T G W A Y
+Case 325: J I B
+Case 326: B S H P N
+Case 327: J C M B U P I L G A H O D N V S Z K Y
+Case 328: B F U
+Case 329: X W
+Case 330: E
+Case 331: J V
+Case 332: H A Y Z U P W
+Case 333: H G Q
+Case 334: X R B V M I E C T P Z O N D Q
+Case 335: L J V Z F T N B
+Case 336: P F N E B O S V T I G X Y H Z R W J
+Case 337: C T E R N F Q Z W S P B I D K
+Case 338: V A M R S
+Case 339: J H U M W Q O R I P V X K N G L
+Case 340: L H
+Case 341: F Z M B A G U X R H O C W T
+Case 342: M E Z T H J C V X
+Case 343: I H G W X O Y Z R B J N V M E
+Case 344: W X K
+Case 345: F B D X G H M T N R Z V A
+Case 346: W U A V G E Q M H O I P D B X Z T
+Case 347: I T Y B Z S V H M K D P L X O C U Q N
+Case 348: D I
+Case 349: M W
+Case 350: G I C D E L P N Z S R T
+Case 351: B I V W R K L Q F Y U H T X M D
+Case 352: O J V R G X H U N F S L Q M
+Case 353: D X C V H Q L B K
+Case 354: F A T O
+Case 355: L D I B E T J
+Case 356: J C Z X O U Q N M G S T L P K H E A D B I R V W Y
+Case 357: L R J A K I U Z G Q P D W C
+Case 358: C M W L Y G I R
+Case 359: K Y B V S M H U A G W
+Case 360: B L N G P I J E A K T D R C O X S V W
+Case 361: D V E W Y C P R F A B L Q J X Z
+Case 362: K V J A B
+Case 363: H E Y F D S P A W J
+Case 364: V R J M U
+Case 365: I Z F A N P O V J U X Q D L T E W C S G R K M H
+Case 366: S D C J K U
+Case 367: M U K T B L P Z D S O N I G E F V H W X
+Case 368: Z L H D
+Case 369: H B M F Y J G U
+Case 370: I A E S V W G O Q X L C H M N D K Z F P
+Case 371: O G A Z X F I H S Q
+Case 372: X W F U Z O Y M
+Case 373: M D T X
+Case 374: Z N E
+Case 375: M L H U D S Q V A T
+Case 376: W G I X Z H A M Y K
+Case 377: K Q
+Case 378: G L Q Y E J M R C K T N B
+Case 379: Y I Z V F H B T O X A J M W
+Case 380: F J C I H Q U W T D P
+Case 381: J W D X P R Q S C K B O F I M T N
+Case 382: A P G I B Z J X Y U
+Case 383: D Q K F S C P J A E R X B O Y H
+Case 384: D L U W
+Case 385: T I W C H E N
+Case 386: G N O R Z Y S F I P
+Case 387: S C F Z L I
+Case 388: P J U G X T V E B A K W M R O N C
+Case 389: T P I Y L D E R C F K W N S H Z J M G B X
+Case 390: D P A F G J X Y I W Z U B M H O
+Case 391: B M K
+Case 392: C R K O Q
+Case 393: A Q
+Case 394: F J P C Z A Q V L
+Case 395: F G U O R J X P K T
+Case 396: V K O Z B X Q J S P A M C E F
+Case 397: T U P F X R W L M D Q K
+Case 398: S D H
+Case 399: S C W U Z A E N B V
+Case 400: Z G M F E
+Case 401: O T F Q V B C G
+Case 402: S R M X I N G T Q
+Case 403: H D L Z O P Q
+Case 404: L I P Z J W V Y A
+Case 405: N I B G R A J E
+Case 406: O M X Q J
+Case 407: R T M H O Z Y L U S C A
+Case 408: A O Z H S L C
+Case 409: D E I F O H R N T U L B P J W A M
+Case 410: Z H K S N O D B
+Case 411: F T O B P J I G
+Case 412: K L C I O Q V E G X M R S D J U T P
+Case 413: W I R M F Z G Y E Q K V N T B S D
+Case 414: Y U K S B X I P T Q E F N R G V Z W D H O A C J
+Case 415: R M C H N Z F T
+Case 416: O A F Q K E
+Case 417: E R F O T V H M L C
+Case 418: H E I
+Case 419: I K V J
+Case 420: T C D F I G
+Case 421: A V Q S R O H E M J T G F U
+Case 422: W I C E
+Case 423: Q G S H C K Z T
+Case 424: K S N T Q
+Case 425: B O V Y Q J T R N P D G L X A C U M Z F
+Case 426: U S K J R F P M H O C
+Case 427: C K D I G U R Q T P O N M J X L W B A E S
+Case 428: D G C H
+Case 429: U F K L Q
+Case 430: E R B X F
+Case 431: E W K G L
+Case 432: I Y J E V H L Z N
+Case 433: J N
+Case 434: T G S M P D H U
+Case 435: K C F L Y W J M D
+Case 436: L P R I M J N S Z Q G F
+Case 437: D C E P M T L V H F W Y S I Q O A Z
+Case 438: M J
+Case 439: G X U O
+Case 440: D N
+Case 441: W M V
+Case 442: L F
+Case 443: T H B I R
+Case 444: P E W Y F T V O U J H
+Case 445: N E Z O W P Y C V T B R U D
+Case 446: K C O J F I T A E S D R Q L P V M X Z W B
+Case 447: B G M
+Case 448: I D C O U T Y V B M A
+Case 449: C K H A W M I P J
+Case 450: U Y F K
+Case 451: T G S O
+Case 452: Z U
+Case 453: U P S G E C I M F
+Case 454: S E
+Case 455: G H I Z
+Case 456: R D L G V J O I N T B Z
+Case 457: U H O W
+Case 458: F O P Q I G H N M W V D B U X K T E
+Case 459: Z E K V L F G H P O I X C
+Case 460: W S E J
+Case 461: W L F
+Case 462: D G J K S F R M A N E Z L W V O U Q
+Case 463: G K D N A P C
+Case 464: V K S D N T F R A B H O P X I Y
+Case 465: M
+Case 466: M L
+Case 467: X O L U
+Case 468: M K
+Case 469: E A T Y Z L R X Q C V D F K G U
+Case 470: D E V Q Y
+Case 471: F H Z N A T Y W E J
+Case 472: K V S Z A O
+Case 473: K Z S H L Y C M B A G R F O E Q
+Case 474: C R M E L W A S N Q H J T G I F Y V P O Z K B
+Case 475: A N H D F P C L U J Y K G
+Case 476: G K S C B Q T D Y L J M
+Case 477: X B K I M U G Q V H R E
+Case 478: D H L F O X W N U M A G I Q
+Case 479: F
+Case 480: V B M R J C
+Case 481: T J L K
+Case 482: B C T Y S A Z J L M Q G W K U O E X H V F R N P
+Case 483: Q D F H G X S V
+Case 484: U L I F J Y H G C S V W B A X T
+Case 485: D V J K
+Case 486: W T L F S B P G
+Case 487: B Z J
+Case 488: G B O P K J I D N C M U V T Q R S H X L A W
+Case 489: U M D N
+Case 490: W K V M T Z
+Case 491: R Q
+Case 492: T J E C L G S K Z P X D H A
+Case 493: M J D X V G R Z P S L W
+Case 494: V T J
+Case 495: R T
+Case 496: G K H T U J W X N I V A D R Y
+Case 497: N J E P W T U S C M G Z X Y B K
+Case 498: X R Z S B P O C Q V W L A K
+Case 499: P A E O I U Q X G
+Case 500: F D I Q R S P W Y T
+Case 501: D T Y B O G L I R U Z F N V
+Case 502: N
+Case 503: K F G T M B U X Y
+Case 504: L B W A H Q Z Y T F V
+Case 505: R K B T D
+Case 506: I N G J H R E F T M V W B D C Q S U
+Case 507: A Y D S J K G N
+Case 508: D C
+Case 509: D F A U Q K P N R M Y S C X V J G W L T
+Case 510: H M V I E G Q
+Case 511: L B
+Case 512: N U
+Case 513: O I D P W M X
+Case 514: W M N A V D P X Z T I Q R
+Case 515: C L B J W Q K T E R
+Case 516: S J K N M Q Y O F
+Case 517: H M R I E N Q K X
+Case 518: D Y K A E Q F Z J M C P N B W R
+Case 519: F P R Y
+Case 520: F
+Case 521: S G O R Y U E N
+Case 522: C G M K Y L E
+Case 523: Q T D I A L K
+Case 524: N E B R Y Q F V O
+Case 525: I H
+Case 526: U Z X H
+Case 527: N I W X
+Case 528: O D H X Q
+Case 529: V X P Y Z J
+Case 530: Z V C O T
+Case 531: O V I U S W
+Case 532: A C Z R Y N P I H Q K B D T V M X W O S L U F
+Case 533: D F B K
+Case 534: C M F H P W K N G X O U J S D
+Case 535: I P Z F B W
+Case 536: B D
+Case 537: B Q
+Case 538: Q P A O F U X V
+Case 539: D M K G W
+Case 540: X Q W H Z K U B
+Case 541: U T
+Case 542: L S H Y I
+Case 543: B P L M N A I J X W S
+Case 544: E F X M U H K
+Case 545: Z A Q T F P B N C I V G O K Y
+Case 546: R V H
+Case 547: O H U N X D B A J Q F T G M I L S V E Z P
+Case 548: C U D B W Z O V Y
+Case 549: S I X G A T C B N K
+Case 550: I C D A Y U B M N H Z G O
+Case 551: X K J E N I C G B A Q U O V
+Case 552: N C K B O E X T L R D
+Case 553: P J M T E R L Y K A U Q V B
+Case 554: B I D Y G Q N A X M C
+Case 555: Z M
+Case 556: B K
+Case 557: H X B G L U O D F Z A R C W E T J V S
+Case 558: P G O S W V L E T B Q H F
+Case 559: L Z F X H U Q J O Y A I B C P
+Case 560: W M J X
+Case 561: B G M C
+Case 562: U V C I
+Case 563: X N B V G F H D J T S Y C
+Case 564: N J Q B L R P O F T
+Case 565: X V
+Case 566: J
+Case 567: B G S L R X H J W D N
+Case 568: A E N I H X W J
+Case 569: S C H U X W E J L M V
+Case 570: U L Y E P K M N
+Case 571: B J H G K V F U
+Case 572: U I D W J B T Z A G P C K O
+Case 573: J N T K V P X M O I
+Case 574: C D I L M K E V W
+Case 575: A F I O S R C Y L
+Case 576: I D U W Q B X P V G E K T M Y C F L
+Case 577: H N D R K I J M A L E X P T C Q
+Case 578: P F N H
+Case 579: M V E S J R N F O Y I P H Z X W L B Q T K G A
+Case 580: A B G M X R N V Z I S L E
+Case 581: I M U B X S G H K N J L
+Case 582: S I R P U
+Case 583: P
+Case 584: L Z R X S D V H
+Case 585: I C D M Q N Y B P E T W K L F V X A
+Case 586: P S U I
+Case 587: A Z C F L D X H R I J O P K W
+Case 588: U L B D T C V Y H
+Case 589: Q X
+Case 590: A Q F I G N T X D Y S C R
+Case 591: L D F T J W Q R V H O P N K C
+Case 592: N X C
+Case 593: K Y X B I S E W G D O C V
+Case 594: Z
+Case 595: I L T X B R K Y N H G M U Z V J A Q S C P D
+Case 596: E Y N J A C K F T
+Case 597: R V F J C W
+Case 598: Z Q
+Case 599: X P H N K B T O I D J V Y G
+Case 600: N R Q X A O F D K
+Case 601: B H T E O Z
+Case 602: P I
+Case 603: K P Q U D V
+Case 604: E U D V I A C W M O G
+Case 605: H D M
+Case 606: S B G
+Case 607: D Y F G X O I B R A H V C U T
+Case 608: K R O G Y Q X D
+Case 609: D F
+Case 610: W K Z H M I D
+Case 611: X O H U D K M V
+Case 612: R K Q B L N X A Z
+Case 613: C H B R A U X P S Y K T O Q N M I D Z V E L
+Case 614: M L V G F O K S Z Q I U X R H W
+Case 615: P H X N K T S O C F V D E
+Case 616: T L
+Case 617: M V D U T A N W H E Z S
+Case 618: J Z O P A R H Q K L M U V D Y B F I T W
+Case 619: F I E O X W Q
+Case 620: C F I M G B Y H S
+Case 621: W U J E X B C P A G H Q V K Y I L D O N
+Case 622: B S X E W V N P Q K Y R
+Case 623: K G C L N Y I D
+Case 624: P D
+Case 625: E B D
+Case 626: N H
+Case 627: A W L O U H P
+Case 628: N
+Case 629: N F D L B K S O X E Y P
+Case 630: Q G
+Case 631: P V Q H L O T W
+Case 632: C S R X G W T
+Case 633: T E S F W I C Z
+Case 634: N B R F K S U
+Case 635: X J G R D W C U Q N V H
+Case 636: X R M Y W L J B P G V
+Case 637: C B F X U Q H L S W P V A M R
+Case 638: Z Y J P I S L
+Case 639: M O R T Z V
+Case 640: I Z A D U C B G F N T K J L H M S X E P R W Q
+Case 641: I S R D
+Case 642: D O W T V G F N H E R C J Y
+Case 643: G F H T
+Case 644: H D F S J E P
+Case 645: B C Y Z O N I F X M
+Case 646: B L G S W I H J M Q R N E
+Case 647: K Z I M L O R V G U H A J Y N
+Case 648: U V J T N C K Q M Y
+Case 649: M N V
+Case 650: W K P O L Q N A I S D H V U G X E C Y
+Case 651: C P O G W V U
+Case 652: Q X M F G S O I Z D
+Case 653: Q I R X A V S Z F G M P B E L
+Case 654: S R C
+Case 655: Q W E
+Case 656: V X M
+Case 657: O V H A
+Case 658: H E R
+Case 659: W C R J V O G N I
+Case 660: U Y P E O G B F N Z S
+Case 661: N G E X B
+Case 662: U Q
+Case 663: B A W F P M E I L C G X H R U
+Case 664: E Z G W L C J V R F M D P S A H N Q K I T
+Case 665: Q S F T C N D M H Z
+Case 666: I R
+Case 667: R C E F A Y K
+Case 668: X T B A L Y G
+Case 669: X P D N A J
+Case 670: H W D P A F V U L M J T G S
+Case 671: K A O E P F M Z G
+Case 672: Y D K V N O E J R C Q A I P T H G U M L Z B
+Case 673: L W J K B E F D C H I S N M Q Z Y O G R V
+Case 674: V D F S M G T O R H Y W K
+Case 675: A
+Case 676: S T F K E Y
+Case 677: Y H J K Z O B S C V F E
+Case 678: K S R H Q F I
+Case 679: L Z O G E J X
+Case 680: B Q S X V
+Case 681: D U F M
+Case 682: E J G Y D T Q
+Case 683: A D F L K O Z
+Case 684: V W S H Y A P U
+Case 685: E Q
+Case 686: W H G J U D P N O A Q
+Case 687: O X E B M H G S L T F Q K R J D U
+Case 688: Y G I E L D Z S K J N P C X U T H F
+Case 689: P I M Y H D V X O R
+Case 690: N Z I Q W
+Case 691: H
+Case 692: T K L W P Z I
+Case 693: T J N E Q
+Case 694: J L
+Case 695: P
+Case 696: N A U C F
+Case 697: K V Y M P L E I A
+Case 698: D Y
+Case 699: L J V B M R Z I
+Case 700: K P Z J O T W U D C N V Q X
+Case 701: C B E V O N H L D Q F U P T G
+Case 702: P F H B O W M G
+Case 703: L F Y R A
+Case 704: J K D E Z T G W X A O
+Case 705: H B P Q G D J N O A Y L U C S Z E
+Case 706: X K A F Z O P G E M N Y
+Case 707: P C X U J E R L D W O H G A M Z
+Case 708: J W N M U Z S O L R H Q T D G I Y C F K V
+Case 709: X P Z K M U Y
+Case 710: D I Z L K W C B M S F T
+Case 711: M L X K J W B
+Case 712: S T B J F Q P V K
+Case 713: J N Z L M H U
+Case 714: F Y S H V J P G A D U W R
+Case 715: H V N Q C J B P D M X
+Case 716: Z S G N
+Case 717: O L N A I F E X R D Y W G B U
+Case 718: W V Q M P Z H N B U Y S
+Case 719: T N V
+Case 720: A J Z H P V I E M
+Case 721: N S A Y M O F E J H U G I K V T D Q L R B P
+Case 722: Y B C F A W H D G
+Case 723: P R Q X L T A G I K M E F U
+Case 724: J Q U W M
+Case 725: L D S
+Case 726: E C S Z
+Case 727: D K J H R Q P
+Case 728: H P C Z F A N E
+Case 729: B T A M H F V
+Case 730: G S M H Y J E A X P V Q
+Case 731: L Y H B F V R W O C J A S Z U P D
+Case 732: O F A U J M
+Case 733: B C P
+Case 734: H O B K R G L T J F V
+Case 735: A X E G L J Q U M F N K Z S T D
+Case 736: P L D O E H R K
+Case 737: A E Z W T P S L N K
+Case 738: C F
+Case 739: O J V X W
+Case 740: Q E A L F U R
+Case 741: U Y L
+Case 742: Y S K Q G I H
+Case 743: W B E I U K
+Case 744: V A K B D M L Q Z F I W C S U P
+Case 745: B H J C W N
+Case 746: I A J D T X V
+Case 747: N M L E O Z B P
+Case 748: P M
+Case 749: E D H O G N T M F Y V P I
+Case 750: G K U N R L O S D A Z J P Q H T
+Case 751: K P B
+Case 752: Z I H T Y
+Case 753: C
+Case 754: M X T B N P I H
+Case 755: Y M S Z B P X N E L
+Case 756: B T A O C W M F G P U K Q D S V H E J Y L
+Case 757: S G W M I U C R H K F V Z T
+Case 758: Z V R P O A G B X I
+Case 759: R A E D P G Z N Q M J B I
+Case 760: J N G I R P L H D M K F B T X V A Y U C S
+Case 761: K
+Case 762: L R Y U P A G
+Case 763: V J L R T D Z U P S C I O H N
+Case 764: G W Q L A B O
+Case 765: W N D P H I L Q
+Case 766: B R L W D M N P G
+Case 767: V K N X E Z T S B L G U Q
+Case 768: M Z W
+Case 769: Y E K W
+Case 770: X C K J G D O I A P M L V T W N S B H Y
+Case 771: D O F X I V
+Case 772: I G F P S Q M J N O
+Case 773: C Z
+Case 774: M H G R P C E F Q A B U X W T K S I O
+Case 775: A Q C N I V D Y J L B
+Case 776: E O G U M J S K Z X I Y N D H F V R B L
+Case 777: Q R V T J A P I Z E Y M H C X
+Case 778: J N
+Case 779: V M G S
+Case 780: H B K G E X W M L O R T A V J Z S U F
+Case 781: A C R T N D Y P B J I S L H
+Case 782: O G J K I B F
+Case 783: T L H J M P U A S X O Z Q E B V N C F D
+Case 784: F Y W G L N C O B K E Q X M S J H Z I
+Case 785: Z U G W F A P
+Case 786: M B F A V G K X Y S O J
+Case 787: Z S A Y H J I B W
+Case 788: P M G Q L N C W E Z Y U D R J B X F I T K
+Case 789: U F
+Case 790: I S M W R K B Q T
+Case 791: I O S N P H Q E W M F X J C U A K
+Case 792: F B O E Y X Z J
+Case 793: T G D
+Case 794: Q I P J N H M Z
+Case 795: T A P
+Case 796: H Z E
+Case 797: A K T C S O
+Case 798: E U B X L H Q
+Case 799: D A C
+Case 800: I L O Z Y N D
+Case 801: R M E Y J O S K V T
+Case 802: F Z G N Y O D E Q A
+Case 803: A W G L J O X S C
+Case 804: A M F L V
+Case 805: C F G M W P Q Z I R T V H A E D
+Case 806: A U Q J G K T E S F D
+Case 807: H P
+Case 808: Q I T L Z U P V
+Case 809: R K U C B L
+Case 810: X O P M G H I L K D Q N C U W R F Y V T Z A B J
+Case 811: D R N
+Case 812: I E
+Case 813: N
+Case 814: K O U G
+Case 815: X U H
+Case 816: J H M I W A Z S K L N U P
+Case 817: A I X K W H B M P J C S
+Case 818: S G R E Q J X H T
+Case 819: L N C J
+Case 820: M W D Y F O K V P S H Q R B Z U G
+Case 821: G U C X D N Q H T I
+Case 822: F B I E C A U S L M
+Case 823: E B M Q
+Case 824: W L Z N Q D T C H Y V
+Case 825: C H N K L B V E M T G
+Case 826: G Z A H I K T S X
+Case 827: Q E J F T N G W
+Case 828: Q B F I A E D S P L H G M Z Y C V K R
+Case 829: C O S Z M K X L G H Y
+Case 830: R A L K N V J D U Q Z S
+Case 831: G Y D B
+Case 832: A G O H I J M K Q Z U D W
+Case 833: N M O
+Case 834: J K R O C N Y A I G V Q T W X U E B H D Z L
+Case 835: X C L K G D E U O S
+Case 836: R V K Y U W
+Case 837: K Q N C W F E B U P O V M S J R Y
+Case 838: D K F H A O S N G R
+Case 839: T
+Case 840: Q T X V J Z R
+Case 841: U I F E L V R J N Y M Z A X T
+Case 842: D W X I F T L B
+Case 843: N T B I O K H F J S D E P C U
+Case 844: H Z
+Case 845: Q F R Z M N Y D E G I A
+Case 846: P E N Z I H V L S B T J U Q X O G M K A Y W D
+Case 847: J O M
+Case 848: L N D Q H E
+Case 849: D X
+Case 850: O L I A V T P Z
+Case 851: Q M N F V U P E C I
+Case 852: X L P F I C G
+Case 853: S J Q L C Z G O M X H R U
+Case 854: N
+Case 855: K T F J X E Q
+Case 856: E I Z J W
+Case 857: B L S X K
+Case 858: Z A N W S T X L C V D
+Case 859: N A T O V
+Case 860: U N
+Case 861: G J A D C S T P W M F Q B X I E Y R
+Case 862: O V S W Z L P U N T Y A C R H B F J X D M
+Case 863: H X T F Q O
+Case 864: N M J R H I W T P O
+Case 865: K X G
+Case 866: O H I
+Case 867: J H I L Q T Y Z
+Case 868: D U M O J L I T E V Y B N F Z H S
+Case 869: E R Y L Q I C
+Case 870: F R Z B L A U O X J S
+Case 871: G S O B H K D L E R W
+Case 872: C O J A B Q E I M H
+Case 873: H I V L E Q S Z A K G O N W M Y F C
+Case 874: T E N Q K S V Y C B A P H J O W U Z D
+Case 875: B M A Y R J E X D L O U K H T Z
+Case 876: Y O F R G K T P S
+Case 877: J T L R
+Case 878: F Z M X I R A U Q H N
+Case 879: B A F C R U S J P
+Case 880: D G V R N M H U C J B I P
+Case 881: I C M K N Y Q R O G P D B L W A U T
+Case 882: R
+Case 883: J K W I R B O S L N A U X
+Case 884: D P A S E G
+Case 885: H E A D C V R L P
+Case 886: U N G M F W A Q C T R S L H
+Case 887: R E D
+Case 888: R Z
+Case 889: D J I M L G E Q S V F
+Case 890: S F A J K G M D C Y H R Z O Q L P U V I E B W N X
+Case 891: B N O
+Case 892: M T G Q Y W B S N F
+Case 893: I W H K O M D L T
+Case 894: U O C Y B I M W S T G V X D F R E A J N Z L
+Case 895: S I M Y L T Z K C
+Case 896: B S I J O E C W N T D R
+Case 897: L J Z O F E T P G K R M A N H C X
+Case 898: U I Q D V B Y O A M P G K H T W S L E J N Z X
+Case 899: R L D A J P
+Case 900: M C
+Case 901: N D Q C B X P
+Case 902: P X J N D F Q G R M A T U I Y L
+Case 903: A S Z T Q K H C G V F M B J X R O L W U I Y P D
+Case 904: D P I S G V H J L Y Z
+Case 905: Q F Z P L O H G N W T V J R
+Case 906: M I H Z
+Case 907: O J
+Case 908: B H F X P A O D N Y J V G M T Q E
+Case 909: G P B M R T L E C
+Case 910: O W S U
+Case 911: X V G J N I Y M W C O U K R
+Case 912: O W N C H U F S V
+Case 913: J S
+Case 914: S O
+Case 915: C S J T V Z E
+Case 916: Y E C J W H G Z
+Case 917: C R E D V T F
+Case 918: V K C W R Y H B O Q E G Z
+Case 919: S X D F
+Case 920: S B L F V E N
+Case 921: X L O B E
+Case 922: O B I T Z W A Q R K S J L M Y V X E U F D H N G
+Case 923: F W Q B P V L D S N R J I M
+Case 924: Y O
+Case 925: C V S P J
+Case 926: Y J
+Case 927: G J D
+Case 928: P D A N V S O L H U Q Z I K X G
+Case 929: S V I L T H Q F O
+Case 930: U C P Z M I Y A N
+Case 931: X
+Case 932: B D Y P R A E S G H
+Case 933: W G
+Case 934: R F H J I X L
+Case 935: A J B U P X S
+Case 936: F L Q M H N G B
+Case 937: A P W O
+Case 938: J M G O X E Y B S N C Q H K W U R
+Case 939: A J C X N F M
+Case 940: O P E H F
+Case 941: B D L C U M A H E O N F
+Case 942: M A L I
+Case 943: M W T Y F L H V N I X C S Z K
+Case 944: N K B E U Q
+Case 945: P K C R L H X A Q U M B O Z F S I N J Y W
+Case 946: U P O L Y V B W R J X Z H A
+Case 947: H M P Z E I T R F Q B J X W S
+Case 948: B C G U Q
+Case 949: G M D H S V O A I P F Q
+Case 950: W B P L X U T E Z C G Q N Y
+Case 951: W A M V E K
+Case 952: Q K U D A
+Case 953: I P J Y F
+Case 954: M S D E L B R J
+Case 955: F I E M O H K Z N
+Case 956: Q H F G M W N Z A E I O S
+Case 957: X T F Z D W C V A H B J P E
+Case 958: E L C K I T M B D A V H R Y X G U S W Z F P
+Case 959: X M D L O V T H J K Q P
+Case 960: J X A T L O U K
+Case 961: X N L F R I S C T V E Z O D Q P W B Y J
+Case 962: Q N P K E H W T Y
+Case 963: X B T R D E A F W H G Y L P
+Case 964: F Q
+Case 965: H U T Q D I N V C E P Z W X
+Case 966: C K
+Case 967: N S
+Case 968: R B J H A T E
+Case 969: Q H B P J K R
+Case 970: O Q F K J I A E H S N C U D V
+Case 971: A O B E W C H N X P G S F
+Case 972: A
+Case 973: K P D H L Y T A S N Q O U M G X W
+Case 974: C R
+Case 975: F K D H Z W X N B S G E
+Case 976: X I V N H
+Case 977: I J T K G F W N U S Q
+Case 978: H U B Y D S M O L V E X
+Case 979: Q
+Case 980: W I F U N L O K Y J
+Case 981: E H N S L Q R V B A P W K O
+Case 982: T O N L B Y U P C
+Case 983: T G P M D N A I
+Case 984: W M
+Case 985: Y H N Q E T V P S
+Case 986: Z W C N P M B V R J F I O
+Case 987: Z H E S N P U V T
+Case 988: Q X A G Z F O B W H P U D Y N K T R V J
+Case 989: H Z X N O P A K U I C E V Y F M T G R
+Case 990: D R V J H A
+Case 991: F
+Case 992: U I D J
+Case 993: U H M L G N O P A J Q V
+Case 994: F K T
+Case 995: A C U J I T V D E G
+Case 996: E F K N I C Y P X H L J U T B S Q
+Case 997: D E A M H S
+Case 998: B K P S X U N I H C V G R A Y
+Case 999: G J
+Case 1000: D T P K M
+Case 1001: Y E O N J F D U X G H P M Q K
+Case 1002: Y Z P Q I T L R K O B G E N M X
+Case 1003: A L Q
+Case 1004: C M J Q E T L W G H A Y K V O N U R
+Case 1005: P B K M N Y A E
+Case 1006: R U S C
+Case 1007: D P X S J Z M Q A L O V R
+Case 1008: F H B G C S
+Case 1009: H C L U G O
